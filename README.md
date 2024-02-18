@@ -1,10 +1,9 @@
-# build_Transformer
 
-<img width="250" align="right" src="[https://www.odinschool.com/hubfs/Imported_Blog_Media/giphy-Aug-30-2021-08-36-20-58-AM.gif](https://www.odinschool.com/hubfs/Imported_Blog_Media/giphy-Aug-30-2021-08-36-20-58-AM.gif)">
+<img width="250" align="right" src="https://www.odinschool.com/hubfs/Imported_Blog_Media/giphy-Aug-30-2021-08-36-20-58-AM.gif">
 
 <h3 align="center">
   Welcome to my graduation project
-  <img src="https://www.flaticon.com/free-icon/friends_10817271?term=ai&page=1&position=47&origin=search&related_id=10817271" width="28">
+  <img src="https://cdn-icons-png.flaticon.com/512/1754/1754210.png" width="28">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -24,5 +23,4 @@
 ### Follow Me :
 
 <a href="https://www.youtube.com/@brefat" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Maher-0077B5?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-
 
