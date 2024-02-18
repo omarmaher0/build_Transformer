@@ -3,7 +3,7 @@
 
 <h3 align="center">
   Welcome to my graduation project
-  <img src="https://www.flaticon.com/free-icon/friends_10817271?term=ai&page=1&position=47&origin=search&related_id=10817271.png" width="28">
+  <img src="https://www.flaticon.com/free-icon/friends_10817271" width="28">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
