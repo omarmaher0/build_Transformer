@@ -11,10 +11,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Text%20Summarization%20;%20Building&font=Fira%20Code&center=true&width=440&height=45&color=ecb306&vCenter=true&size=22"></a>
 </p> 
 
-- 🧠 My role in this project for building the model.
-- 🧠 Using TensorFlow & keras library.
-- 🧠 I used SMOTE algorithm to handle unbalanced data.
-- 🧠 I applied data visualization to see it clearly.
+- 🧠 My role in this project for building the transformer from scratch.
+- 🧠 Task about Text-summarization.
+- 🧠 Using TensorFlow library.
+- 🧠 I applied data preprocessing.
   
 ### Connect with Me :
 
